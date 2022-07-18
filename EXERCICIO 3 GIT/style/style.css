@@ -1,0 +1,44 @@
+*{
+margin:0;
+padding:0; 
+}
+
+.menu{
+	
+	margin-left:260px;
+	margin-top:100px;
+	
+}
+
+.menu li{
+	display:inline;
+	margin-left:15px;
+	border: solid 1px black; 
+}  
+
+#imagem1{
+	position:absolute;
+	width:500px;
+	margin-left: 200px;
+	margin-top: 50px;	
+}
+#imagem2{
+	position:absolute;
+	width:100px;
+	height:100px;
+	margin-top:350px;
+	margin-left:200px;	
+}
+
+#texto{
+	position:absolute;
+	margin-top:500px;
+	margin-left:200px;
+	font-size:24;
+	color:red;
+	background-color:black;
+	width:400px;
+	height:50px;
+	padding-top:20px;
+	padding-left:100px;
+}
